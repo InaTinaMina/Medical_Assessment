@@ -1,0 +1,15 @@
+This is a medical assessment project which is made using the following tech stacks:
+HTML, CSS, PHP, MySql
+Local server that was used to connect the backend was Xampp
+Main server wherer the files were uploaded - CentOs Web Server
+The front end was hosted on Jottform where the data was stored using the POST request 
+To test the API, Postman was used 
+The API was made from Woztell
+Woztell helps in sending the messages on the parents mobiles number which is provided by the users in Jottform
+PHP is used as a backend to store the data in MySql 
+PHP was also used to process al the requests coming from the Jottform 
+
+
+BASIC AIM OF THE PROJECT
+To assess the mental health of students in school all over the country.
+To send messages to Parents regarding what actions the parents should take for their child/ children.
